@@ -10,3 +10,5 @@ models
 __pycache__
 assets/*.mp3
 public/*.mp3
+!public/fonts/
+public/*.wav
