@@ -1,0 +1,143 @@
+[
+  {"section": "verso1", "lineId": "v1-1", "text": "É o cartão que te acompanha no rolê", "start": 11.338, "end": 14.7, "words": [
+      {"w": "É", "start": 11.338, "end": 11.68, "emphasis": false},
+      {"w": "o", "start": 11.68, "end": 11.86, "emphasis": false},
+      {"w": "cartão", "start": 11.888, "end": 12.38, "emphasis": true},
+      {"w": "que", "start": 12.38, "end": 12.6, "emphasis": false},
+      {"w": "te", "start": 12.6, "end": 12.736, "emphasis": false},
+      {"w": "acompanha", "start": 12.736, "end": 13.66, "emphasis": false},
+      {"w": "no", "start": 13.66, "end": 13.98, "emphasis": false},
+      {"w": "rolê", "start": 13.98, "end": 14.7, "emphasis": false}
+  ]},
+  {"section": "verso1", "lineId": "v1-2", "text": "O investimento que cresce junto com você", "start": 15.61, "end": 19.09, "words": [
+      {"w": "O", "start": 15.61, "end": 15.765, "emphasis": false},
+      {"w": "investimento", "start": 15.765, "end": 16.79, "emphasis": true},
+      {"w": "que", "start": 16.848, "end": 17.01, "emphasis": false},
+      {"w": "cresce", "start": 17.01, "end": 17.403, "emphasis": false},
+      {"w": "junto", "start": 17.403, "end": 17.97, "emphasis": false},
+      {"w": "com", "start": 17.984, "end": 18.37, "emphasis": false},
+      {"w": "você", "start": 18.37, "end": 19.09, "emphasis": false}
+  ]},
+  {"section": "verso1", "lineId": "v1-3", "text": "O seguro que protege o que é seu", "start": 20.181, "end": 23.4, "words": [
+      {"w": "O", "start": 20.181, "end": 20.459, "emphasis": false},
+      {"w": "seguro", "start": 20.459, "end": 21.22, "emphasis": true},
+      {"w": "que", "start": 21.258, "end": 21.66, "emphasis": false},
+      {"w": "protege", "start": 21.66, "end": 22.48, "emphasis": false},
+      {"w": "o", "start": 22.48, "end": 22.6, "emphasis": false},
+      {"w": "que", "start": 22.656, "end": 22.78, "emphasis": false},
+      {"w": "é", "start": 22.78, "end": 23.02, "emphasis": false},
+      {"w": "seu", "start": 23.02, "end": 23.4, "emphasis": false}
+  ]},
+  {"section": "verso1", "lineId": "v1-4", "text": "O consórcio pra sonhar e realizar", "start": 23.63, "end": 27.71, "words": [
+      {"w": "O", "start": 23.63, "end": 23.89, "emphasis": false},
+      {"w": "consórcio", "start": 23.89, "end": 24.69, "emphasis": true},
+      {"w": "pra", "start": 24.69, "end": 24.91, "emphasis": false},
+      {"w": "sonhar", "start": 24.91, "end": 25.6, "emphasis": false},
+      {"w": "e", "start": 25.941, "end": 26.36, "emphasis": false},
+      {"w": "realizar", "start": 26.63, "end": 27.71, "emphasis": false}
+  ]},
+  {"section": "pre", "lineId": "p-1", "text": "O app é completo", "start": 28.21, "end": 29.81, "words": [
+      {"w": "O", "start": 28.21, "end": 28.53, "emphasis": false},
+      {"w": "app", "start": 28.53, "end": 28.89, "emphasis": false, "uncertain": true},
+      {"w": "é", "start": 28.938, "end": 29.33, "emphasis": false},
+      {"w": "completo", "start": 29.33, "end": 29.81, "emphasis": true}
+  ]},
+  {"section": "pre", "lineId": "p-2", "text": "Te acompanha de perto e pra viajar", "start": 30.315, "end": 33.73, "words": [
+      {"w": "Te", "start": 30.315, "end": 30.587, "emphasis": false},
+      {"w": "acompanha", "start": 30.587, "end": 31.49, "emphasis": false},
+      {"w": "de", "start": 31.49, "end": 31.75, "emphasis": false},
+      {"w": "perto", "start": 31.75, "end": 32.29, "emphasis": false},
+      {"w": "e", "start": 32.29, "end": 32.61, "emphasis": false},
+      {"w": "pra", "start": 32.61, "end": 32.87, "emphasis": false},
+      {"w": "viajar", "start": 32.87, "end": 33.73, "emphasis": false}
+  ]},
+  {"section": "pre", "lineId": "p-3", "text": "Você tem com quem contar", "start": 33.75, "end": 35.067, "words": [
+      {"w": "Você", "start": 33.75, "end": 33.91, "emphasis": false},
+      {"w": "tem", "start": 33.91, "end": 34.27, "emphasis": false},
+      {"w": "com", "start": 34.27, "end": 34.51, "emphasis": false},
+      {"w": "quem", "start": 34.51, "end": 34.75, "emphasis": false},
+      {"w": "contar", "start": 34.75, "end": 35.067, "emphasis": true}
+  ]},
+  {"section": "gatilho", "lineId": "g-1", "text": "Na tua cidade", "start": 36.037, "end": 37.51, "words": [
+      {"w": "Na", "start": 36.037, "end": 36.309, "emphasis": false},
+      {"w": "tua", "start": 36.309, "end": 36.79, "emphasis": false},
+      {"w": "cidade", "start": 36.79, "end": 37.51, "emphasis": true}
+  ]},
+  {"section": "gatilho", "lineId": "g-2", "text": "Eu tô no teu negócio", "start": 37.87, "end": 39.77, "words": [
+      {"w": "Eu", "start": 37.87, "end": 38.19, "emphasis": false},
+      {"w": "tô", "start": 38.203, "end": 38.61, "emphasis": false},
+      {"w": "no", "start": 38.61, "end": 38.81, "emphasis": false},
+      {"w": "teu", "start": 38.81, "end": 39.15, "emphasis": false},
+      {"w": "negócio", "start": 39.15, "end": 39.77, "emphasis": true}
+  ]},
+  {"section": "gatilho", "lineId": "g-3", "text": "Eu tô lá no campo", "start": 40.107, "end": 42.01, "words": [
+      {"w": "Eu", "start": 40.107, "end": 40.368, "emphasis": false},
+      {"w": "tô", "start": 40.368, "end": 40.71, "emphasis": false},
+      {"w": "lá", "start": 40.71, "end": 41.18, "emphasis": false, "uncertain": true},
+      {"w": "no", "start": 41.184, "end": 41.53, "emphasis": false},
+      {"w": "campo", "start": 41.53, "end": 42.01, "emphasis": true}
+  ]},
+  {"section": "gatilho", "lineId": "g-4", "text": "Stop!", "start": 42.05, "end": 42.3, "words": [
+      {"w": "Stop!", "start": 42.05, "end": 42.3, "emphasis": true}
+  ]},
+  {"section": "gatilho", "lineId": "g-5", "text": "Também tô!", "start": 43.296, "end": 44.47, "words": [
+      {"w": "Também", "start": 43.296, "end": 43.79, "emphasis": true},
+      {"w": "tô!", "start": 43.79, "end": 44.47, "emphasis": true}
+  ]},
+  {"section": "refrao1", "lineId": "r-1", "text": "Me chama que eu vou", "start": 44.57, "end": 46.35, "words": [
+      {"w": "Me", "start": 44.57, "end": 44.79, "emphasis": true},
+      {"w": "chama", "start": 44.79, "end": 45.21, "emphasis": true},
+      {"w": "que", "start": 45.237, "end": 45.68, "emphasis": false},
+      {"w": "eu", "start": 45.69, "end": 45.99, "emphasis": false},
+      {"w": "vou", "start": 46.048, "end": 46.35, "emphasis": false}
+  ]},
+  {"section": "refrao1", "lineId": "r-2", "text": "No presencial e digital", "start": 46.326, "end": 48.31, "words": [
+      {"w": "No", "start": 46.326, "end": 46.603, "emphasis": false},
+      {"w": "presencial", "start": 46.603, "end": 47.397, "emphasis": true},
+      {"w": "e", "start": 47.397, "end": 47.65, "emphasis": false},
+      {"w": "digital", "start": 47.669, "end": 48.31, "emphasis": true}
+  ]},
+  {"section": "refrao1", "lineId": "r-3", "text": "Não tem “fica pra depois”", "start": 48.41, "end": 50.53, "words": [
+      {"w": "Não", "start": 48.41, "end": 48.87, "emphasis": false},
+      {"w": "tem", "start": 48.87, "end": 49.11, "emphasis": false},
+      {"w": "“fica", "start": 49.11, "end": 49.69, "emphasis": false},
+      {"w": "pra", "start": 49.69, "end": 49.89, "emphasis": false},
+      {"w": "depois”", "start": 49.89, "end": 50.53, "emphasis": false}
+  ]},
+  {"section": "refrao1", "lineId": "r-4", "text": "Pessoa, empresa ou lá no agro", "start": 50.64, "end": 53.23, "words": [
+      {"w": "Pessoa,", "start": 50.64, "end": 51.29, "emphasis": false},
+      {"w": "empresa", "start": 51.29, "end": 51.57, "emphasis": false},
+      {"w": "ou", "start": 51.57, "end": 51.95, "emphasis": false},
+      {"w": "lá", "start": 51.989, "end": 52.19, "emphasis": false},
+      {"w": "no", "start": 52.19, "end": 52.37, "emphasis": false},
+      {"w": "agro", "start": 52.37, "end": 53.23, "emphasis": true}
+  ]},
+  {"section": "refrao1", "lineId": "r-5", "text": "Conta comigo pra tudo", "start": 53.338, "end": 56.27, "words": [
+      {"w": "Conta", "start": 53.338, "end": 53.99, "emphasis": false},
+      {"w": "comigo", "start": 53.99, "end": 54.57, "emphasis": false},
+      {"w": "pra", "start": 54.57, "end": 55.04, "emphasis": false},
+      {"w": "tudo", "start": 55.498, "end": 56.27, "emphasis": true}
+  ]},
+  {"section": "refrao1", "lineId": "r-6", "text": "Pra tudo", "start": 57.27, "end": 58.49, "words": [
+      {"w": "Pra", "start": 57.27, "end": 57.59, "emphasis": false},
+      {"w": "tudo", "start": 57.648, "end": 58.49, "emphasis": true}
+  ]},
+  {"section": "ponte", "lineId": "b-1", "text": "Sicredi 125 anos", "start": 62.45, "end": 65.23, "words": [
+      {"w": "Sicredi", "start": 62.45, "end": 63.21, "emphasis": false, "uncertain": true},
+      {"w": "125", "start": 63.21, "end": 63.68, "emphasis": true},
+      {"w": "anos", "start": 64.01, "end": 65.23, "emphasis": false}
+  ]},
+  {"section": "ponte", "lineId": "b-2", "text": "Não é só dinheiro", "start": 65.206, "end": 66.73, "words": [
+      {"w": "Não", "start": 65.206, "end": 65.63, "emphasis": false},
+      {"w": "é", "start": 65.63, "end": 65.93, "emphasis": false},
+      {"w": "só", "start": 65.93, "end": 66.13, "emphasis": false},
+      {"w": "dinheiro", "start": 66.13, "end": 66.73, "emphasis": false}
+  ]},
+  {"section": "ponte", "lineId": "b-3", "text": "É ter com quem contar", "start": 67.093, "end": 69.72, "words": [
+      {"w": "É", "start": 67.093, "end": 67.46, "emphasis": false},
+      {"w": "ter", "start": 67.46, "end": 67.82, "emphasis": false},
+      {"w": "com", "start": 67.867, "end": 68.29, "emphasis": false},
+      {"w": "quem", "start": 68.46, "end": 68.912, "emphasis": false},
+      {"w": "contar", "start": 68.912, "end": 69.72, "emphasis": true}
+  ]}
+]

@@ -1,0 +1,695 @@
+[
+ {
+  "lineId": "v1-1",
+  "w": "É",
+  "start": 11.36,
+  "end": 11.68,
+  "prob": 0.062
+ },
+ {
+  "lineId": "v1-1",
+  "w": "o",
+  "start": 11.68,
+  "end": 11.86,
+  "prob": 0.959
+ },
+ {
+  "lineId": "v1-1",
+  "w": "cartão",
+  "start": 11.86,
+  "end": 12.38,
+  "prob": 0.986
+ },
+ {
+  "lineId": "v1-1",
+  "w": "que",
+  "start": 12.38,
+  "end": 12.6,
+  "prob": 0.959
+ },
+ {
+  "lineId": "v1-1",
+  "w": "te",
+  "start": 12.6,
+  "end": 12.78,
+  "prob": 0.996
+ },
+ {
+  "lineId": "v1-1",
+  "w": "acompanha",
+  "start": 12.78,
+  "end": 13.66,
+  "prob": 0.997
+ },
+ {
+  "lineId": "v1-1",
+  "w": "no",
+  "start": 13.66,
+  "end": 13.98,
+  "prob": 0.935
+ },
+ {
+  "lineId": "v1-1",
+  "w": "rolê",
+  "start": 13.98,
+  "end": 14.7,
+  "prob": 0.91
+ },
+ {
+  "lineId": "v1-2",
+  "w": "O",
+  "start": 15.61,
+  "end": 15.81,
+  "prob": 0.098
+ },
+ {
+  "lineId": "v1-2",
+  "w": "investimento",
+  "start": 15.81,
+  "end": 16.79,
+  "prob": 0.994
+ },
+ {
+  "lineId": "v1-2",
+  "w": "que",
+  "start": 16.79,
+  "end": 17.01,
+  "prob": 0.943
+ },
+ {
+  "lineId": "v1-2",
+  "w": "cresce",
+  "start": 17.01,
+  "end": 17.45,
+  "prob": 0.994
+ },
+ {
+  "lineId": "v1-2",
+  "w": "junto",
+  "start": 17.45,
+  "end": 17.97,
+  "prob": 0.993
+ },
+ {
+  "lineId": "v1-2",
+  "w": "com",
+  "start": 17.97,
+  "end": 18.37,
+  "prob": 0.984
+ },
+ {
+  "lineId": "v1-2",
+  "w": "você",
+  "start": 18.37,
+  "end": 19.09,
+  "prob": 0.945
+ },
+ {
+  "lineId": "v1-3",
+  "w": "O",
+  "start": 20.18,
+  "end": 20.5,
+  "prob": 0.011
+ },
+ {
+  "lineId": "v1-3",
+  "w": "seguro",
+  "start": 20.5,
+  "end": 21.22,
+  "prob": 0.96
+ },
+ {
+  "lineId": "v1-3",
+  "w": "que",
+  "start": 21.22,
+  "end": 21.66,
+  "prob": 0.983
+ },
+ {
+  "lineId": "v1-3",
+  "w": "protege",
+  "start": 21.66,
+  "end": 22.48,
+  "prob": 0.974
+ },
+ {
+  "lineId": "v1-3",
+  "w": "o",
+  "start": 22.48,
+  "end": 22.6,
+  "prob": 0.812
+ },
+ {
+  "lineId": "v1-3",
+  "w": "que",
+  "start": 22.6,
+  "end": 22.78,
+  "prob": 0.995
+ },
+ {
+  "lineId": "v1-3",
+  "w": "é",
+  "start": 22.78,
+  "end": 23.02,
+  "prob": 0.988
+ },
+ {
+  "lineId": "v1-3",
+  "w": "seu",
+  "start": 23.02,
+  "end": 23.4,
+  "prob": 0.995
+ },
+ {
+  "lineId": "v1-4",
+  "w": "O",
+  "start": 23.63,
+  "end": 23.89,
+  "prob": 0.073
+ },
+ {
+  "lineId": "v1-4",
+  "w": "consórcio",
+  "start": 23.89,
+  "end": 24.69,
+  "prob": 0.838
+ },
+ {
+  "lineId": "v1-4",
+  "w": "pra",
+  "start": 24.69,
+  "end": 24.91,
+  "prob": 0.784
+ },
+ {
+  "lineId": "v1-4",
+  "w": "sonhar",
+  "start": 24.91,
+  "end": 25.6,
+  "prob": 0.962
+ },
+ {
+  "lineId": "v1-4",
+  "w": "e",
+  "start": 25.89,
+  "end": 26.36,
+  "prob": 0.474
+ },
+ {
+  "lineId": "v1-4",
+  "w": "realizar",
+  "start": 26.63,
+  "end": 27.71,
+  "prob": 0.985
+ },
+ {
+  "lineId": "p-1",
+  "w": "O",
+  "start": 28.21,
+  "end": 28.53,
+  "prob": 0.001
+ },
+ {
+  "lineId": "p-1",
+  "w": "app",
+  "start": 28.53,
+  "end": 28.89,
+  "prob": 0.008
+ },
+ {
+  "lineId": "p-1",
+  "w": "é",
+  "start": 28.89,
+  "end": 29.33,
+  "prob": 0.229
+ },
+ {
+  "lineId": "p-1",
+  "w": "completo",
+  "start": 29.33,
+  "end": 29.81,
+  "prob": 0.97
+ },
+ {
+  "lineId": "p-2",
+  "w": "Te",
+  "start": 30.31,
+  "end": 30.63,
+  "prob": 0.047
+ },
+ {
+  "lineId": "p-2",
+  "w": "acompanha",
+  "start": 30.63,
+  "end": 31.49,
+  "prob": 0.982
+ },
+ {
+  "lineId": "p-2",
+  "w": "de",
+  "start": 31.49,
+  "end": 31.75,
+  "prob": 0.989
+ },
+ {
+  "lineId": "p-2",
+  "w": "perto",
+  "start": 31.75,
+  "end": 32.29,
+  "prob": 0.991
+ },
+ {
+  "lineId": "p-2",
+  "w": "e",
+  "start": 32.29,
+  "end": 32.61,
+  "prob": 0.833
+ },
+ {
+  "lineId": "p-2",
+  "w": "pra",
+  "start": 32.61,
+  "end": 32.87,
+  "prob": 0.975
+ },
+ {
+  "lineId": "p-2",
+  "w": "viajar",
+  "start": 32.87,
+  "end": 33.73,
+  "prob": 0.988
+ },
+ {
+  "lineId": "p-3",
+  "w": "Você",
+  "start": 33.75,
+  "end": 33.91,
+  "prob": 0.009
+ },
+ {
+  "lineId": "p-3",
+  "w": "tem",
+  "start": 33.91,
+  "end": 34.27,
+  "prob": 0.998
+ },
+ {
+  "lineId": "p-3",
+  "w": "com",
+  "start": 34.27,
+  "end": 34.51,
+  "prob": 0.954
+ },
+ {
+  "lineId": "p-3",
+  "w": "quem",
+  "start": 34.51,
+  "end": 34.75,
+  "prob": 0.993
+ },
+ {
+  "lineId": "p-3",
+  "w": "contar",
+  "start": 34.75,
+  "end": 35.067,
+  "prob": 0.977
+ },
+ {
+  "lineId": "g-1",
+  "w": "Na",
+  "start": 36.03,
+  "end": 36.35,
+  "prob": 0.018
+ },
+ {
+  "lineId": "g-1",
+  "w": "tua",
+  "start": 36.35,
+  "end": 36.79,
+  "prob": 0.778
+ },
+ {
+  "lineId": "g-1",
+  "w": "cidade",
+  "start": 36.79,
+  "end": 37.51,
+  "prob": 0.993
+ },
+ {
+  "lineId": "g-2",
+  "w": "Eu",
+  "start": 37.87,
+  "end": 38.19,
+  "prob": 0.016
+ },
+ {
+  "lineId": "g-2",
+  "w": "tô",
+  "start": 38.19,
+  "end": 38.61,
+  "prob": 0.59
+ },
+ {
+  "lineId": "g-2",
+  "w": "no",
+  "start": 38.61,
+  "end": 38.81,
+  "prob": 0.98
+ },
+ {
+  "lineId": "g-2",
+  "w": "teu",
+  "start": 38.81,
+  "end": 39.15,
+  "prob": 0.928
+ },
+ {
+  "lineId": "g-2",
+  "w": "negócio",
+  "start": 39.15,
+  "end": 39.77,
+  "prob": 0.948
+ },
+ {
+  "lineId": "g-3",
+  "w": "Eu",
+  "start": 40.05,
+  "end": 40.37,
+  "prob": 0.031
+ },
+ {
+  "lineId": "g-3",
+  "w": "tô",
+  "start": 40.37,
+  "end": 40.71,
+  "prob": 0.484
+ },
+ {
+  "lineId": "g-3",
+  "w": "lá",
+  "start": 40.71,
+  "end": 41.18,
+  "prob": 0.0
+ },
+ {
+  "lineId": "g-3",
+  "w": "no",
+  "start": 41.21,
+  "end": 41.53,
+  "prob": 0.81
+ },
+ {
+  "lineId": "g-3",
+  "w": "campo",
+  "start": 41.53,
+  "end": 42.01,
+  "prob": 0.7
+ },
+ {
+  "lineId": "g-4",
+  "w": "Stop!",
+  "start": 42.05,
+  "end": 42.3,
+  "prob": 0.164
+ },
+ {
+  "lineId": "g-5",
+  "w": "Também",
+  "start": 43.25,
+  "end": 43.79,
+  "prob": 0.559
+ },
+ {
+  "lineId": "g-5",
+  "w": "tô!",
+  "start": 43.79,
+  "end": 44.47,
+  "prob": 0.362
+ },
+ {
+  "lineId": "r-1",
+  "w": "Me",
+  "start": 44.57,
+  "end": 44.79,
+  "prob": 0.767
+ },
+ {
+  "lineId": "r-1",
+  "w": "chama",
+  "start": 44.79,
+  "end": 45.21,
+  "prob": 0.983
+ },
+ {
+  "lineId": "r-1",
+  "w": "que",
+  "start": 45.21,
+  "end": 45.68,
+  "prob": 0.776
+ },
+ {
+  "lineId": "r-1",
+  "w": "eu",
+  "start": 45.69,
+  "end": 45.99,
+  "prob": 0.968
+ },
+ {
+  "lineId": "r-1",
+  "w": "vou",
+  "start": 45.99,
+  "end": 46.35,
+  "prob": 0.969
+ },
+ {
+  "lineId": "r-2",
+  "w": "No",
+  "start": 46.33,
+  "end": 46.65,
+  "prob": 0.002
+ },
+ {
+  "lineId": "r-2",
+  "w": "presencial",
+  "start": 46.65,
+  "end": 47.45,
+  "prob": 0.925
+ },
+ {
+  "lineId": "r-2",
+  "w": "e",
+  "start": 47.45,
+  "end": 47.65,
+  "prob": 0.963
+ },
+ {
+  "lineId": "r-2",
+  "w": "digital",
+  "start": 47.65,
+  "end": 48.31,
+  "prob": 0.994
+ },
+ {
+  "lineId": "r-3",
+  "w": "Não",
+  "start": 48.41,
+  "end": 48.87,
+  "prob": 0.221
+ },
+ {
+  "lineId": "r-3",
+  "w": "tem",
+  "start": 48.87,
+  "end": 49.11,
+  "prob": 0.983
+ },
+ {
+  "lineId": "r-3",
+  "w": "“fica",
+  "start": 49.11,
+  "end": 49.69,
+  "prob": 0.187
+ },
+ {
+  "lineId": "r-3",
+  "w": "pra",
+  "start": 49.69,
+  "end": 49.89,
+  "prob": 0.452
+ },
+ {
+  "lineId": "r-3",
+  "w": "depois”",
+  "start": 49.89,
+  "end": 50.53,
+  "prob": 0.326
+ },
+ {
+  "lineId": "r-4",
+  "w": "Pessoa,",
+  "start": 50.67,
+  "end": 51.29,
+  "prob": 0.499
+ },
+ {
+  "lineId": "r-4",
+  "w": "empresa",
+  "start": 51.29,
+  "end": 51.57,
+  "prob": 0.104
+ },
+ {
+  "lineId": "r-4",
+  "w": "ou",
+  "start": 51.57,
+  "end": 51.95,
+  "prob": 0.951
+ },
+ {
+  "lineId": "r-4",
+  "w": "lá",
+  "start": 51.95,
+  "end": 52.19,
+  "prob": 0.675
+ },
+ {
+  "lineId": "r-4",
+  "w": "no",
+  "start": 52.19,
+  "end": 52.37,
+  "prob": 0.913
+ },
+ {
+  "lineId": "r-4",
+  "w": "agro",
+  "start": 52.37,
+  "end": 53.23,
+  "prob": 0.979
+ },
+ {
+  "lineId": "r-5",
+  "w": "Conta",
+  "start": 53.39,
+  "end": 53.99,
+  "prob": 0.417
+ },
+ {
+  "lineId": "r-5",
+  "w": "comigo",
+  "start": 53.99,
+  "end": 54.57,
+  "prob": 0.494
+ },
+ {
+  "lineId": "r-5",
+  "w": "pra",
+  "start": 54.57,
+  "end": 55.04,
+  "prob": 0.579
+ },
+ {
+  "lineId": "r-5",
+  "w": "tudo",
+  "start": 55.45,
+  "end": 56.27,
+  "prob": 0.988
+ },
+ {
+  "lineId": "r-6",
+  "w": "Pra",
+  "start": 57.27,
+  "end": 57.59,
+  "prob": 0.023
+ },
+ {
+  "lineId": "r-6",
+  "w": "tudo",
+  "start": 57.59,
+  "end": 58.49,
+  "prob": 0.984
+ },
+ {
+  "lineId": "b-1",
+  "w": "Sicredi",
+  "start": 62.45,
+  "end": 63.21,
+  "prob": 0.03
+ },
+ {
+  "lineId": "b-1",
+  "w": "125",
+  "start": 63.21,
+  "end": 63.68,
+  "prob": 0.839
+ },
+ {
+  "lineId": "b-1",
+  "w": "anos",
+  "start": 64.01,
+  "end": 65.23,
+  "prob": 0.985
+ },
+ {
+  "lineId": "b-2",
+  "w": "Não",
+  "start": 65.21,
+  "end": 65.63,
+  "prob": 0.194
+ },
+ {
+  "lineId": "b-2",
+  "w": "é",
+  "start": 65.63,
+  "end": 65.93,
+  "prob": 0.983
+ },
+ {
+  "lineId": "b-2",
+  "w": "só",
+  "start": 65.93,
+  "end": 66.13,
+  "prob": 0.999
+ },
+ {
+  "lineId": "b-2",
+  "w": "dinheiro",
+  "start": 66.13,
+  "end": 66.73,
+  "prob": 0.994
+ },
+ {
+  "lineId": "b-3",
+  "w": "É",
+  "start": 67.14,
+  "end": 67.46,
+  "prob": 0.083
+ },
+ {
+  "lineId": "b-3",
+  "w": "ter",
+  "start": 67.46,
+  "end": 67.82,
+  "prob": 0.442
+ },
+ {
+  "lineId": "b-3",
+  "w": "com",
+  "start": 67.82,
+  "end": 68.29,
+  "prob": 0.931
+ },
+ {
+  "lineId": "b-3",
+  "w": "quem",
+  "start": 68.46,
+  "end": 68.93,
+  "prob": 0.97
+ },
+ {
+  "lineId": "b-3",
+  "w": "contar",
+  "start": 68.96,
+  "end": 69.72,
+  "prob": 0.931
+ }
+]
